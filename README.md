@@ -1,8 +1,8 @@
 # ExamGenius
 
-Test Generation Tool
+ExamGenius - Test Generation Tool
 
-This Python script serves as a Test Generation Tool, allowing users to create randomized tests in PDF format based on a set of questions. The tool offers a graphical user interface (GUI) for easy interaction.
+ExamGenius is a Python script that serves as a Test Generation Tool, allowing users to create randomized tests in PDF format based on a set of questions. The tool offers a graphical user interface (GUI) for easy interaction.
 Features:
 
     Select a questions file.
@@ -14,12 +14,15 @@ Features:
 
 How to Use:
 
-    Launch the tool.
+    Launch ExamGenius.
     Select a valid questions file.
     Fill in the required fields for test generation.
     Optionally, choose a date for the test.
     Click the "Generate Tests" button.
 
+Executable Version:
+
+For Windows users, an executable version (.exe) is available for convenient use without requiring Python installation. Download the latest release from the Releases section.
 Requirements:
 
     Python 3.x
@@ -30,11 +33,8 @@ Usage:
 
 bash
 
-python test_generator.py
+python ExamGenius.py
 
-Executable Version:
-
-For Windows users, an executable version (.exe) is available for convenient use without requiring Python installation. Download the latest release from the Releases section.
 Example:
 
 License:
