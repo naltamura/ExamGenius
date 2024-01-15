@@ -25,3 +25,21 @@ Requirements:
     Python 3.x
     Tkinter (GUI)
     ReportLab (PDF generation)
+
+Usage:
+
+bash
+
+python test_generator.py
+
+Executable Version:
+
+For Windows users, an executable version (.exe) is available for convenient use without requiring Python installation. Download the latest release from the Releases section.
+Example:
+
+License:
+
+This project is licensed under the MIT License.
+Contribution:
+
+Contributions are welcome! Please feel free to submit issues or pull requests.
