@@ -33,7 +33,7 @@ Usage:
 
 bash
 
-python ExamGenius.py
+'''python ExamGenius.py'''
 
 Example:
 
