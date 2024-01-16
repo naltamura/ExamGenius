@@ -12,13 +12,24 @@ Features:
     Choose a date for the test.
     Generate randomized tests in PDF format.
 
-How to Use:
+### How to Use:
+1. Launch ExamGenius.
+2. **Select a Valid Questions File:**
+   - The questions file should be a plain text file (.txt).
+   - Each question should be separated by a double line break ("\n\n").
+   - Example format:
+     ```
+        What is the nature of reality?
+        
+        Is morality subjective or objective?
+        
+        Can true altruism exist?
 
-    Launch ExamGenius.
-    Select a valid questions file.
-    Fill in the required fields for test generation.
-    Optionally, choose a date for the test.
-    Click the "Generate Tests" button.
+        What is the meaning of life?
+     ```
+3. Fill in the required fields for test generation.
+4. Optionally, choose a date for the test.
+5. Click the "Generate Tests" button.
 
 Executable Version:
 
