@@ -32,11 +32,14 @@ Requirements:
 Usage:
 
     Bash: 
-    `` python ExamGenius.py ```
+    python ExamGenius.py
+    
 
 
 Example:
+![immagine](https://github.com/naltamura/ExamGenius/assets/97169711/ce0f0c06-d2ec-44db-bddc-9f11f297855f)
 
+    
 License:
 
 This project is licensed under the MIT License.
