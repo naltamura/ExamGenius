@@ -31,9 +31,9 @@ Requirements:
 
 Usage:
 
-bash
+    Bash: 
+    `` python ExamGenius.py ```
 
-``` python ExamGenius.py ```
 
 Example:
 
