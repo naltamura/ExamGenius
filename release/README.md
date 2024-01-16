@@ -1,6 +1,6 @@
-## ExamGenius - Test Generation Tool
+## ExamGenius - Assignment Generation Tool
 
-Welcome to the ExamGenius release folder! Here, you can find the standalone executable version of ExamGenius, allowing you to generate tests without needing to install Python.
+Welcome to the ExamGenius release folder! Here, you can find the standalone executable version of ExamGenius, allowing you to generate assignments without needing to install Python.
 
 ### Executable Version:
 - **ExamGenius.exe:** The standalone executable file for Windows users.
@@ -11,7 +11,7 @@ Welcome to the ExamGenius release folder! Here, you can find the standalone exec
 ### How to Use:
 1. Download ExamGenius.exe (dist folder).
 2. Double-click on ExamGenius.exe to launch the tool.
-3. Follow the on-screen instructions to generate randomized tests.
+3. Follow the on-screen instructions to generate randomized assignments.
 
 ### Requirements:
 - This executable is designed for Windows users.

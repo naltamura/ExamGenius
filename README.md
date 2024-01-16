@@ -1,16 +1,16 @@
 # ExamGenius
 
-ExamGenius - Test Generation Tool
+ExamGenius - assignment Generation Tool
 
-ExamGenius is a Python script that serves as a Test Generation Tool, allowing users to create randomized tests in PDF format based on a set of questions. The tool offers a graphical user interface (GUI) for easy interaction.
+ExamGenius is a Python script that serves as a assignment Generation Tool, allowing users to create randomized assignments in PDF format based on a set of questions. The tool offers a graphical user interface (GUI) for easy interaction.
 Features:
 
     Select a questions file.
-    Specify the number of tests to generate.
-    Set the number of questions per test.
-    Enter a custom test name.
-    Choose a date for the test.
-    Generate randomized tests in PDF format.
+    Specify the number of assignments to generate.
+    Set the number of questions per assignment.
+    Enter a custom assignment name.
+    Choose a date for the assignment.
+    Generate randomized assignments in PDF format.
 
 ### How to Use:
 1. Launch ExamGenius.
@@ -29,13 +29,13 @@ Features:
         What is the meaning of life?
      ```
 
-3. Fill in the required fields for test generation.
-4. Optionally, choose a date for the test.
-5. Click the "Generate Tests" button.
+3. Fill in the required fields for assignment generation.
+4. Optionally, choose a date for the assignment.
+5. Click the "Generate assignments" button.
 
 Executable Version:
 
-For Windows users, an executable version (.exe) is available for convenient use without requiring Python installation. Download the latest release from the Releases section.
+For Windows users, an executable version (.exe) is available for convenient use without requiring Python installation. Download the laassignment release from the Releases section.
 Requirements:
 
     Python 3.x
